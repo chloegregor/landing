@@ -1,0 +1,31 @@
+.banner {
+  background-image: url(https://lewagon.github.io/landing-page-challenge/images/background.png);
+  background-position: center;
+  height:100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner h1{
+color: white;
+}
+
+.banner p{
+  color: rgb(219, 218, 218);
+  font-size: 18px;
+}
+
+.wagon{
+  font-family: "germania one";
+  color: crimson;
+}
+
+.btn-wagon{
+margin: 20px 0px;
+color: crimson;
+background-color:white ;
+border-radius: 30px;
+padding: 15px 20px;
+}
